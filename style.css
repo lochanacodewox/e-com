@@ -1,0 +1,24 @@
+.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-theme h1, .dark-theme h2, .dark-theme h3 {
+    color: #ffffff;
+}
+
+.dark-theme a {
+    color: #bb86fc;
+}
+
+.dark-theme button {
+    background-color: #3700b3;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.dark-theme button:hover {
+    background-color: #6200ee;
+}
